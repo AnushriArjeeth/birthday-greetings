@@ -1,0 +1,20 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+
+#my_Canvas
+{
+    background-color: white;
+    border-style: ridge;
+    border-color: rgb(255, 2, 2);
+}
+
+#B-T-N
+{
+    height: 10;
+    width: 50;
+    background-color: rgb(255, 92, 236);
+    background-color: rgb(53, 71, 231);
+}
